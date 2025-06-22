@@ -42,5 +42,13 @@ figure {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 
+}
+
+.main figure img {
+
+  max-width: 50%; 
+  margin: 0 auto;   
+  padding: 1rem;
 }
